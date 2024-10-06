@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **Prince Agrawal**
+- 👀 I’m interested in DSA || Web Development || AI/ML
+- 🌱 I’m currently learning DSA and AI/ML
+- 💞️ I’m looking to collaborate on the projects based on AI/ML, DSA, Web Development Registered on the Open Source Platforms.
+- 📫 You can reach me at Email : princeagrawal1013@gmail.com  Instagram : [@prince_agrawal_1310](https://www.instagram.com/prince_agrawal_1310/)  Linkedin : www.linkedin.com/in/prince-agrawal-
