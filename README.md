@@ -18,7 +18,7 @@
 const prince = {
   name        : "Prince Agrawal",
   institute   : "ABV-IIITM Gwalior · B.Tech EEE · 2023–2027",
-  cgpa        : "9.36 / 10.0  (10 SGPA in 4th Sem 🏆)",
+  cgpa        : "9.42 / 10.0  (10 SGPA in 4th Sem 🏆)",
   role        : "Full-Stack Developer  |  DSA Enthusiast  |  Open Source Contributor",
   focus       : ["Scalable SaaS", "Real-Time Systems", "AI-Integrated Apps"],
   currentlyOn : "Building products that actually ship 🛠️",
