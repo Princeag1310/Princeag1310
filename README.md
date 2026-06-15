@@ -1,12 +1,3 @@
-<div id="user-content-toc">
-  <ul align="center">
-      <h1 style="display: inline-block">Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince Agrawal</h1>
-      <h3 align="center">Full Stack Developer • DSA Guardian</h3>
-  </ul>
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prince%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Guardian%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
