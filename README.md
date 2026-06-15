@@ -1,13 +1,13 @@
 <div id="user-content-toc">
   <ul align="center">
       <h1 style="display: inline-block">Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince Agrawal</h1>
-      <h3 align="center">Full Stack Developer • DSA Guardian • Innovator</h3>
+      <h3 align="center">Full Stack Developer • DSA Guardian</h3>
   </ul>
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prince%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Architecting%20the%20Digital%20Universe&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prince%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Guardian%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
@@ -44,7 +44,6 @@ const prince = {
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ### 🌐 Web & Frontend
@@ -53,7 +52,6 @@ const prince = {
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Real-time
@@ -78,6 +76,15 @@ const prince = {
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+## 💼 Experience & Open Source
+
+- 💻 **Software Engineering Intern @ JMK Spares and Wears** *(May 2026 - Present)*
+  - Working on full-stack software development tasks and contributing to real-world engineering projects.
+- 🌍 **Open Source Developer @ Hacktoberfest 2025** *(Oct 2025)*
+  - Successfully merged multiple pull requests across popular React and Next.js repositories.
 
 ---
 
@@ -157,13 +164,13 @@ const prince = {
 <td width="50%" valign="top">
 
 ### 👨‍💻 My Portfolio
-> *A stunning, interactive space-themed developer portfolio.*
+> *A stunning, interactive developer portfolio.*
 
 **Stack:** React · TypeScript · Framer Motion · Vite
 - Built with premium glassmorphism and micro-animations.
-- Showcases my entire digital universe.
+- Showcases my featured projects, certificates, and achievements.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-princeagrawal.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://princeagrawal.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-prince--agrawal.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://prince-agrawal.vercel.app/)
 [![Source](https://img.shields.io/badge/Source-Princeag1310/Portfolio-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/Portfolio)
 
 </td>
@@ -185,15 +192,6 @@ const prince = {
 
 ---
 
-## 💼 Experience & Open Source
-
-- 💻 **Software Engineering Intern @ JMK Spares and Wears** *(May 2026 - Present)*
-  - Working on full-stack software development tasks and contributing to real-world engineering projects.
-- 🌍 **Open Source Developer @ Hacktoberfest 2025** *(Oct 2025)*
-  - Successfully merged multiple pull requests across popular React and Next.js repositories.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -211,7 +209,7 @@ const prince = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-princeagrawal.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://princeagrawal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prince--agrawal.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://prince-agrawal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agrawal-)
 [![Gmail](https://img.shields.io/badge/Gmail-princeagrawal1013-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeagrawal1013@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-prince__agrawal__1310-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince_agrawal_1310)
