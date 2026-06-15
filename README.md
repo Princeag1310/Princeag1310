@@ -1,30 +1,83 @@
+<div id="user-content-toc">
+  <ul align="center">
+      <h1 style="display: inline-block">Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prince Agrawal</h1>
+      <h3 align="center">Full Stack Developer • DSA Guardian • Innovator</h3>
+  </ul>
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prince%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Knight%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prince%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Architecting%20the%20Digital%20Universe&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=45&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;LeetCode+Knight+%7C+600%2B+Problems+Solved+%F0%9F%A7%A0;Open+Source+Contributor+%7C+Hacktoberfest+2025+%E2%9C%85;B.Tech+EEE+%40+ABV-IIITM+Gwalior+%7C+CGPA+9.36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=45&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;LeetCode+Guardian+%7C+2180+Rating+%F0%9F%A7%A0;CodeChef+4%E2%98%85+%7C+1822+Rating+%F0%9F%8F%86;Open+Source+Contributor+%7C+Hacktoberfest+2025+%E2%9C%85;B.Tech+EEE+%40+ABV-IIITM+Gwalior+%7C+10+SGPA)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧬 About Me
+### 👨‍💻 About Me
 
-```ts
+```typescript
 const prince = {
-  name        : "Prince Agrawal",
-  institute   : "ABV-IIITM Gwalior · B.Tech EEE · 2023–2027",
-  cgpa        : "9.42 / 10.0  (10 SGPA in 4th Sem 🏆)",
-  role        : "Full-Stack Developer  |  DSA Enthusiast  |  Open Source Contributor",
-  focus       : ["Scalable SaaS", "Real-Time Systems", "AI-Integrated Apps"],
-  currentlyOn : "Building products that actually ship 🛠️",
-  contact     : "princeagrawal1013@gmail.com",
+  name:             "Prince Agrawal",
+  institute:        "ABV-IIITM Gwalior (B.Tech EEE, 2023–2027)",
+  cgpa:             "9.42 / 10.0 (10/10 SGPA in 4th Sem ✨)",
+  currentRole:      "Software Engineering Intern @ JMK Spares and Wears",
+  focus:            ["Full-Stack Development", "DSA", "Generative AI Integration"],
+  currentlyLearning: ["System Design", "Advanced Real-Time Architectures"],
+  funFact:          "I can perfectly center a div on the first try... sometimes. 😅",
+  reachMe:          "princeagrawal1013@gmail.com",
 };
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🌐 Web & Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Real-time
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & ORMs
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+### ☁️ Cloud, DevOps & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -34,34 +87,84 @@ const prince = {
 <tr>
 <td width="50%" valign="top">
 
-### 📧 OmniReach SaaS
-> *A Mailchimp alternative powered by AI*
+### 🏥 CureCart
+> *A next-generation AI-powered healthcare e-commerce platform.*
 
-**Stack:** React · Node.js · AWS SES/SNS · Socket.io · Gemini AI · MongoDB
+**Stack:** Next.js · TypeScript · Tailwind · Prisma · Gemini AI
+- Integrates a robust digital pharmacy with an AI health assistant.
+- Uses Gemini & Tavily for verified medical data and real-time guidance.
 
-- ⚡ Real-time delivery tracking via Socket.io + AWS SES
-- 🤖 Gemini AI co-pilot auto-generates HTML email campaigns
-- 📅 node-cron scheduler with CSV stream parsing & 7-day analytics
-- 🔔 AWS SNS webhooks for bounce/complaint automation
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-omni--reach--one.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://omni-reach-one.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-Princeag1310/OmniReach-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/OmniReach)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-cure--cart.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://cure--cart.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/CureCart-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/CureCart)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍕 FoodieReels Web App
-> *Instagram-style food discovery, AI-powered*
+### 📧 OmniReach
+> *A comprehensive AI-powered campaign outreach platform.*
 
-**Stack:** React · Express.js · MongoDB · Gemini AI · ImageKit CDN
+**Stack:** React · Node.js · Express · MongoDB · AWS · Socket.io
+- Manage contacts and execute targeted email/SMS campaigns.
+- Monitor performance in real-time with AI-powered template generation.
 
-- 🔁 Infinite-scroll timeline with Fisher-Yates deduplication
-- 🤖 Gemini AI chatbot for precise food recommendations
-- 🔐 Dual-tenant RBAC with JWT + HTTP-only cookie sessions
-- 🖼️ ImageKit CDN for auto image compression & video delivery
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-omni--reach--one.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://omni-reach-one.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/OmniReach-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/OmniReach)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Second Brain
+> *A high-performance full-stack web application for your digital life.*
+
+**Stack:** React · TypeScript · Tailwind · Node.js · MongoDB
+- Save links, embed videos, store tweets.
+- Securely share your curated content library with a premium UI.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-second--brainee.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://second-brainee.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/Second--Brain-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/Second-Brain)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 FoodieReels
+> *An immersive short-form video & image platform for food lovers.*
+
+**Stack:** React · Node.js · Express · MongoDB
+- Discover the best meals and hottest restaurants.
+- TikTok/Instagram Reels style interface tailored exclusively for food.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-foodiereels.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://foodiereels.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-Princeag1310/foodie--reels-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/foodie-reels)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/foodie--reels-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/foodie-reels)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 CollabDraw
+> *A real-time collaborative drawing application built for seamless teamwork.*
+
+**Stack:** Next.js · Tailwind · Node.js · Socket.io · Prisma · PostgreSQL
+- Multiple users join a shared room.
+- Draw, brainstorm, and interact simultaneously on a digital canvas.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-collabdraws.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://collabdraws.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/collabdraw-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/collabdraw)
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 My Portfolio
+> *A stunning, interactive space-themed developer portfolio.*
+
+**Stack:** React · TypeScript · Framer Motion · Vite
+- Built with premium glassmorphism and micro-animations.
+- Showcases my entire digital universe.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-princeagrawal.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://princeagrawal.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Princeag1310/Portfolio-181717?style=flat-square&logo=github)](https://github.com/Princeag1310/Portfolio)
 
 </td>
 </tr>
@@ -69,47 +172,25 @@ const prince = {
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ Competitive Programming
 
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
-![AWS](https://img.shields.io/badge/AWS_SES%2FSNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Platform | Handle | Achievement |
+|:--------:|:------:|:-----------:|
+| 🟡 **LeetCode** | [princeagrawal1013](https://leetcode.com/u/princeagrawal1013/) | 🛡️ **Guardian** · **2180 Rating** |
+| 🟤 **CodeChef** | [prince\_agrawal](https://www.codechef.com/users/prince_agrawal) | ⭐⭐⭐⭐ **4-Star** · **1822 Rating** |
 
 </div>
+
+---
+
+## 💼 Experience & Open Source
+
+- 💻 **Software Engineering Intern @ JMK Spares and Wears** *(May 2026 - Present)*
+  - Working on full-stack software development tasks and contributing to real-world engineering projects.
+- 🌍 **Open Source Developer @ Hacktoberfest 2025** *(Oct 2025)*
+  - Successfully merged multiple pull requests across popular React and Next.js repositories.
 
 ---
 
@@ -126,48 +207,6 @@ const prince = {
 
 ---
 
-## ⚔️ Competitive Programming
-
-<div align="center">
-
-| Platform | Handle | Achievement |
-|:--------:|:------:|:-----------:|
-| 🟡 **LeetCode** | [princeagrawal1013](https://leetcode.com/u/princeagrawal1013/) | 🏅 **Knight** · **600+ Problems** |
-| 🟤 **CodeChef** | [prince\_agrawal](https://www.codechef.com/users/prince_agrawal) | ⭐⭐⭐ **3-Star Rated** |
-
-</div>
-
----
-
-## 💼 Open Source · Experience
-
-**🌍 Hacktoberfest 2025** — Open Source Software Developer *(Oct 2025 · Remote)*
-
-- ✅ Merged **6 production-ready PRs** across React & Next.js open-source repos
-- 🎵 Built a full-screen Now Playing feature + Artist Page UI for [`Music_app`](https://github.com/Anmol-TheDev/Music_app) using React, TypeScript & Tailwind
-- 🧭 Implemented dynamic dark mode sidebar navigation with `shadcn/ui` + `Radix UI`
-- 🛡️ Integrated React Error Boundaries in [`Inquizzitive`](https://github.com/sb-decoder/inquizzitive) to harden analytics dashboard stability
-
----
-
-## 🏅 Leadership
-
-- 🎯 **Event Head · Infotsav 2024 & 2025** — Managed end-to-end execution of 4 major hackathon & business competitions, hosting **500+ participants** at ABV-IIITM Gwalior
-- 🎭 **Executive Member · SAC Cultural** — Led collegiate community programs and cultural initiatives
-
----
-
-## 🎯 2026 Goals
-
-- [ ] 🏢 Land a top-tier **SDE internship** at a product-based company
-- [ ] 🧠 Crack **DSA rounds** — push LeetCode to **800+ problems**
-- [ ] 🌐 Ship **2+ production SaaS apps** with real users
-- [ ] 📄 Publish a **research paper** in communications or distributed systems
-- [ ] 🤝 Make deeper open-source contributions & grow dev network
-- [ ] 🎓 Maintain **9+ CGPA** heading into placement season
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -175,7 +214,6 @@ const prince = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-princeagrawal.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://princeagrawal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agrawal-)
 [![Gmail](https://img.shields.io/badge/Gmail-princeagrawal1013-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeagrawal1013@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Princeag1310-181717?style=for-the-badge&logo=github)](https://github.com/Princeag1310)
 [![Instagram](https://img.shields.io/badge/Instagram-prince__agrawal__1310-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince_agrawal_1310)
 
 </div>
